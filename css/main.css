@@ -1,0 +1,62 @@
+body{
+background-color: #f0edeb;
+background-image: url(http://www.transparenttextures.com/patterns/tileable-wood-colored.png);	
+}
+
+.navbar-brand{
+  font-family: 'Poiret One', cursive;
+  color:#000;
+  font-weight:bold;
+  font-size:1.8em;
+}
+h1{
+font-family: 'Poiret One', cursive;
+color:#000;
+font-weight:bold;
+font-size:1.4em;
+}
+.navbar{
+background:transparent;
+}
+#logout{
+font-family: 'Poiret One', cursive;
+color:#000;
+font-weight:bold;
+font-size:1.4em;
+}
+#logout:hover{
+font-family: 'Poiret One', cursive;
+color:#9C6D35;
+font-weight:bold;
+font-size:1.4em;
+text-decoration:none;
+}
+.navbar-nav {
+  margin: 13px;
+}
+.navbar-default .navbar-brand {
+  color: #000;
+}
+.btn-default{
+background:#C19A6B;
+color:#232323;
+border-radius:0px;
+border:1px solid black;
+}
+.btn-default:hover{
+background:#9C6D35;
+color:#232323;
+border-radius:0px;
+border:1px solid black;
+}
+.btn-default:focus, .btn-default:hover, .open>.dropdown-toggle.btn-default {
+background:#9C6D35;
+color:#232323;
+border-radius:0px;
+border:1px solid black;
+}
+.result{
+font-style: italic;
+padding:10px;
+font-family: Lucida Sans;
+}
