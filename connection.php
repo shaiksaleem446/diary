@@ -1,6 +1,6 @@
 
 <?php
-$link = mysqli_connect("localhost","cl16-example-5u7","MVBJU.sCg","cl16-example-5u7");
+$link = mysqli_connect("xxx","xxx","xxx","xxx");
 	if(mysqli_connect_error()){
 	 die( "could not connect to database");
 	}	
